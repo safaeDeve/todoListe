@@ -1,0 +1,102 @@
+#divp{
+    width: 700px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 40px;
+    border: 1px solid rgb(51, 49, 49);
+    box-shadow: 0px 2px 6px rgb(84, 82, 82) ;
+    padding-left: 30px;
+    background-color: #FAACAB;
+}
+#t1{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#todos{
+    width: 400px;
+    height: 40px;
+    border-color: black;
+    padding-left: 10px;
+    margin-left: 100px;
+    margin-top: 20px;
+    background-color: #FAACAB;
+}
+#btn{
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: #FAACAB;
+    border-radius: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    height: 48px;
+    
+
+}
+#btn:hover{
+    color: #c40e0b;
+}
+#editValue{
+    width: 300px;
+    height: 40px;
+    border-color: black;
+    padding-left: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: #FAACAB;
+
+}
+.btnEdite{
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: #FAACAB;
+    border-radius: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    height: 40px;
+}
+.btnEdite:hover{
+    color: #c40e0b;
+}
+.chek{
+    list-style: none;
+    
+
+}
+.chekbox{
+    margin-left: 80px;
+    width: 30px;
+    height: 20px;
+    
+}
+#label{
+    margin-top: 20px;
+}
+#delete{
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: #FAACAB;
+    border-radius: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    height: 40px;
+}
+#delete:hover{
+    color: #c40e0b;
+}
+#all{
+    margin-left: 80px;
+    width: 30px;
+    height: 20px;
+}
+#pag{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: red;
+}
+#titF{
+    color: green;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: #f47572;
+}
